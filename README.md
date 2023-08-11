@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# How to run the App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Install the dependencies with following commands:
+
+`npm i axios` , `npm i react-router-dom` , `npm install react-collapsible` , `npm i bootstrap`
+
+Run command `npm start` to start the Application
+
+The app will start on `localhost:3000`
+
+
+
 
 ## Available Scripts
 
